@@ -1,6 +1,6 @@
 ---
 lang-ref: data
-title: Data
-description: We publish open data
+title: 数据
+description: 本站发布开放数据
 layout: occurrence
 ---
