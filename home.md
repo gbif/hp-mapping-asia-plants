@@ -7,10 +7,10 @@ background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalis
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
-  - text: Start exploring/开始
+  - text: 开始
     href: /data
     isPrimary: true
-  - text: About/关于
+  - text: 关于我们
     href: /about
 permalink: /
 ---
