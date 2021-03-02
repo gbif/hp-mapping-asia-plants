@@ -1,30 +1,19 @@
 ---
 lang-ref: about
-title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: 关于我们
+description: 中国科学院植物研究所
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## 亚洲植物多样性数字化计划
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+植物物种名录与分布数据库是本计划的核心。数据来自GBIF数据子集和自有数据，其中自有数据来源有：（1）植物志书、植物名录和相关论文；（2）植物分布图；（3）植物标本；（4）植物调查样方；（5）植物考察资料；（6）植物观测资料；（7）数字化的在线数据集。本平台作为GBIF的亚洲区域节点平台，现有展示数据来自GBIF。
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
 
-## Quam ex te videt
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
 
     var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
     if (basebandDdr < pda) {
