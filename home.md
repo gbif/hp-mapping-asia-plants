@@ -1,16 +1,16 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: 亚洲植物多样性数字化计划（Mapping Asia Plants）
+description: 亚洲植物多样性数字化计划（MAP）旨在建立亚洲植物学信息的大数据在线平台，为亚洲植物多样性保护与研究提供综合性基础信息和跨学科数据挖掘环境。
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
-  - text: Start exploring
+  - text: 开始
     href: /data
     isPrimary: true
-  - text: About
+  - text: 关于我们
     href: /about
 permalink: /
 ---
