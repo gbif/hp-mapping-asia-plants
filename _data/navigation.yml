@@ -1,9 +1,11 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: About/关于我们
   href: /about
-- text: Data
+- text: Data/数据
   href: /data
+- text: 数据目录
+  href: /
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
