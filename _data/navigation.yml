@@ -5,7 +5,7 @@
 - text: Data/数据
   href: /data
 - text: 数据目录
-  href: /
+  href: /test
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
