@@ -4,8 +4,6 @@ layout: home
 title: Mapping Asia Plants
 description: 亚洲植物多样性 Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background: /assets/images/backg.jpg
-imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Start exploring
     href: /data
