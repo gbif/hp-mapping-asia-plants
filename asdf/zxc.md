@@ -1,6 +1,7 @@
 ---
 title: our new title
 ---
-Mapping  
-Asia 
-Plants
+# Mapping  
+
+* Asia 
+* Plants
