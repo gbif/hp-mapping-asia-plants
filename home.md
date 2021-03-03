@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Mapping Asia Plants
+title Mapping Asia Plants
 description: 亚洲植物多样性 Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
