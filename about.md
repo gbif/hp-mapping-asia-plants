@@ -2,36 +2,38 @@
 lang-ref: about
 title: About
 description: MAP工作组由组长和7名成员组成，分别负责相关区域数据的组织管理和平台开发
-background: /assets/images/Workshop.jpg
-imageLicense: |
-  (http://www.cncdiversitas.org/zh-hans/node/2558)
+background: /assets/images/gesanghua.jpg
 height: 70vh
 ---
 
-## The Workshop of Mapping Asia Plants
+## The Working Group of Mapping Asia Plants
 
-**组长**：
+**Group Leader**：
           
-          罗茂芳 (Maofang Luo)
+          Maofang Luo
 
-**成员**：
+**Members**：
 
-          李文军(Wenjun Li), Responsible for Central Asia
+          Wenjun Li, Responsible for Central Asia
           
-          刘博(Bo Liu), Responsible for Southeast Asia
+          Bo Liu, Responsible for Southeast Asia
           
-          林秦文(Qinwen Lin)，Responsible for South Asia
+          Qinwen Lin, Responsible for South Asia
           
-          王洪峰(Hongfeng Wang)，Responsible for Northeast Asia
+          Hongfeng Wang, Responsible for Northeast Asia
           
-          徐学红(Xuehong Xu)，Responsible for Southwest Asia
+          Xuehong Xu, Responsible for Southwest Asia
           
-          薛建华(Jianhua Xue)，Responsible for North Asia
+          Jianhua Xue, Responsible for North Asia
           
-          许哲平(Zheping Xu)，Platform construction, technology
+          Zheping Xu, Responsible for platform construction and technology support
           
+
+
 
 [MAP Seminar: Central Asia (North Asia) and West Asia, held in Urumqi](http://www.cncdiversitas.org/zh-hans/node/2558).
+
+
 
 ## Quam ex te videt
 
