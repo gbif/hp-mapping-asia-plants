@@ -32,6 +32,8 @@
     href: https://hp-base-theme.gbif-staging.org/
   - text: Videos
     href: https://hp-base-theme.gbif-staging.org/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Files" # Title for block of menu items
+  - text: Files
+    href: https://hp-base-theme.gbif-staging.org/
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Files" # Title for block of menu items
   
