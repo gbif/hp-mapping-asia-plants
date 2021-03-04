@@ -1,7 +1,7 @@
 ---
 title:  Ginkgo
 date:   2021-03-04 09:20:00 +0100
-categories: ["Simple introduction", "Discussion"]
+categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 background: /assets/images/ginkgo.jpg
 ---
