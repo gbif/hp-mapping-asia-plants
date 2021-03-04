@@ -11,6 +11,7 @@ height: 70vh
 ## The Workshop of Mapping Asia Plants
 
 **组长**：罗茂芳 (Maofang Luo)
+
 **成员**：李文军(Wenjun Li), Responsible for Central Asia
           刘博(Bo Liu), Responsible for Southeast Asia
           林秦文(Qinwen Lin)，Responsible for South Asia
