@@ -1,8 +1,26 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About/关于我们
-  href: /about
 - text: Data/数据
+  href: /data
+- text: Data Service/数据服务
+  menu: # Dropdown menu (one level deep only)
+  - text: Search by name
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Search by taxa
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Search by species
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Search by institute
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Search by specimen record
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Search by featured resources
+    href: https://hp-base-theme.gbif-staging.org/
+- text: Data Development/数据服务
+  href: /data
+- text: Contact/联系我们
+  href: /about
+- text: Tools/网站工具
   href: /data
 - text: 数据目录
   menu: # Dropdown menu (one level deep only)
