@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Data
+- text: Data/数据
   href: /data
 - text: Data Service
   menu: # Dropdown menu (one level deep only)
