@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Mapping Asia Plants
-description: 亚洲植物多样性 Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: Mapping Asia Plants (MAP)
+description: MAP’s mission is for a better mapping infrastructure for plant diversity conservation in Asia. It aims to provide a database and standardized workflow for mapping Asia plant species, which makes comprehensive basic information and interdisciplinary data mining for plant diversity conservation and research available.
 background: /assets/images/backg.jpg
 cta:
   - text: Start exploring
