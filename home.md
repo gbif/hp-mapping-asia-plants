@@ -15,14 +15,5 @@ permalink: /
 
 Edit `/home.md` to change the text.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
+MAP operates in **six sub-regions** including Southeast Asia, South Asia, and Northeast Asia etc. Currently, each sub-region has built species databases. At Asia scale, vascular plants species database at genus level. Based on MAP’s investigation, several articles on the progress of plant research in these areas were published in Global Ecology and Conservation. These articles state the history, status and existing problems of vascular plant biodiversity research in Asia countries, and also list out the latest important resources. They provide important information for those who are interested in vascular plant diversity research in these regions and lay an important foundation for the establishment of a database of vascular plant diversity in Asia based on more accurate and up-to-date data.
 
