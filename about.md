@@ -4,7 +4,7 @@ title: About
 description: MAP工作组由组长和7名成员组成，分别负责相关区域数据的组织管理和平台开发
 background: /assets/images/Workshop.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  (http://www.cncdiversitas.org/zh-hans/node/2558)
 height: 70vh
 ---
 
