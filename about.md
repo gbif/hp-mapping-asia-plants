@@ -8,12 +8,18 @@ height: 70vh
 
 ## The Working Group of Mapping Asia Plants
 
+  **Co-chair:**
+  
   Keping Ma, Institute of Botany/Biodiversity Committee, Chinese Academy of Sciences, Co-chair
   
   K N Ganeshaiah, University of Agricultural Sciences, GKVK Bangalore India, Co-chair
   
+  **Project Coordinator:**
+  
   Maofang Luo, Institute of Botany/Biodiversity Committee, Chinese Academy of Sciences, Project Coordinator
 
+  **Members:**
+  
   Wenjun Li, Xinjian Institute of Ecology and Geography, Chinese Academy of Sciences, Responsible for Central Asia
           
   Bo Liu, Institute of Botany, Chinese Academy of Sciences, Responsible for Southeast Asia
