@@ -1,33 +1,34 @@
 ---
 lang-ref: about
 title: About
-description: MAP工作组由组长和7名成员组成，分别负责相关区域数据的组织管理和平台开发
+description: MAP operates in six sub-regions including Southeast Asia, South Asia, and Northeast Asia etc. Currently, each sub-region has built species databases. At Asia scale, vascular plants species database at genus level. 
 background: /assets/images/gesanghua.jpg
 height: 70vh
 ---
 
 ## The Working Group of Mapping Asia Plants
 
-**Group Leader**：
-          
-          Maofang Luo
+  Keping Ma, Institute of Botany/Biodiversity Committee, Chinese Academy of Sciences, Co-chair
+  
+  K N Ganeshaiah, University of Agricultural Sciences, GKVK Bangalore India, Co-chair
+  
+  Maofang Luo, Institute of Botany/Biodiversity Committee, Chinese Academy of Sciences, Project Coordinator
 
-**Members**：
-
-          Wenjun Li, Responsible for Central Asia
+  Wenjun Li, Xinjian Institute of Ecology and Geography, Chinese Academy of Sciences, Responsible for Central Asia
           
-          Bo Liu, Responsible for Southeast Asia
+  Bo Liu, Institute of Botany, Chinese Academy of Sciences, Responsible for Southeast Asia
           
-          Qinwen Lin, Responsible for South Asia
+  Qinwen Lin, Institute of Botany, Chinese Academy of Sciences, Responsible for South Asia
           
-          Hongfeng Wang, Responsible for Northeast Asia
+  Hongfeng Wang, Northeast Forestry University, China, Responsible for Northeast Asia
           
-          Xuehong Xu, Responsible for Southwest Asia
+  Xuehong Xu, Institute of Botany/Biodiversity Committee, Chinese Academy of Sciences, Responsible for Southwest Asia
           
-          Jianhua Xue, Responsible for North Asia
+  Jianhua Xue, Institute of Botany, Chinese Academy of Sciences, Responsible for North Asia
           
-          Zheping Xu, Responsible for platform construction and technology support
+  Zheping Xu, National Science Library, Chinese Academy of Sciences, Responsible for platform construction and technology support
           
+  Xuejuan Chen, National Science Library, Chinese Academy of Sciences, Responsible for platform construction and technology support
 
 
 
