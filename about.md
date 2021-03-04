@@ -1,24 +1,25 @@
 ---
 lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+description: MAP工作组由组长和7名成员组成，分别负责相关区域数据的组织管理和平台开发
+background: /assets/images/Workshop.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## The Workshop of Mapping Asia Plants
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+**组长**：罗茂芳 (Maofang Luo)
+**成员**：李文军(Wenjun Li), Responsible for Central Asia
+          刘博(Bo Liu), Responsible for Southeast Asia
+          林秦文(Qinwen Lin)，Responsible for South Asia
+          王洪峰(Hongfeng Wang)，Responsible for Northeast Asia
+          徐学红(Xuehong Xu)，Responsible for Southwest Asia
+          薛建华(Jianhua Xue)，Responsible for North Asia
+          许哲平(Zheping Xu)，Platform construction, technology
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+[MAP Seminar: Central Asia (North Asia) and West Asia, held in Urumqi](http://www.cncdiversitas.org/zh-hans/node/2558).
 
 ## Quam ex te videt
 
