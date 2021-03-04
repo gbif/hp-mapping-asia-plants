@@ -1,7 +1,5 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home
-  href: https://hp-base-theme.gbif-staging.org/
 - text: About
   menu: # Dropdown menu (one level deep only)
   - text: Introduction of MAP
