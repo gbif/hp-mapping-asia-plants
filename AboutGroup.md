@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Mapping Asia Plants
 description: MAP operates in six sub-regions including Southeast Asia, South Asia, and Northeast Asia etc. Currently, each sub-region has built species databases. At Asia scale, vascular plants species database at genus level. 
 background: /assets/images/lotus.Jpg
 height: 70vh
