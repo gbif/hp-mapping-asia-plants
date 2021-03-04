@@ -3,9 +3,9 @@
 - text: About
   menu: # Dropdown menu (one level deep only)
   - text: Introduction of MAP
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Working group
     href: /about
+  - text: Working group
+    href: /AboutGroup
   - text: Contact us
     href: /Contact us/
 - text: Data
