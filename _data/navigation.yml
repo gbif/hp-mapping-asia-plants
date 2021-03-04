@@ -1,8 +1,8 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Data/数据
+- text: Data
   href: /data
-- text: Data Service/数据服务
+- text: Data Service
   menu: # Dropdown menu (one level deep only)
   - text: Search by name
     href: https://hp-base-theme.gbif-staging.org/
@@ -16,8 +16,45 @@
     href: https://hp-base-theme.gbif-staging.org/
   - text: Search by featured resources
     href: https://hp-base-theme.gbif-staging.org/
-- text: Data Development/数据服务
-  href: /data
+- text: Data Development
+    menu: # Dropdown menu (one level deep only)
+  - text: Data visualization
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Red List Evaluation
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Green List Evaluation
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Reserve resources
+    href: https://hp-base-theme.gbif-staging.org/
+- text: Tools
+    menu: # Dropdown menu (one level deep only)
+  - text: Upload and download
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Check
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Analyze
+    href: https://hp-base-theme.gbif-staging.org/
+- text: Training
+    menu: # Dropdown menu (one level deep only)
+  - text: Upload and download
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Check
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Analyze
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Classify
+    href: https://hp-base-theme.gbif-staging.org/
+- text: Community
+    menu: # Dropdown menu (one level deep only)
+  - text: Upload and download
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Check
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Analyze
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Classify
+    href: https://hp-base-theme.gbif-staging.org/
+    
 - text: Contact/联系我们
   href: /about
 - text: Tools/网站工具
