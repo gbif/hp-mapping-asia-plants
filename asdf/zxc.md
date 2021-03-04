@@ -2,7 +2,7 @@
 title: Contact us
 layout: page
 background: /assets/images/moss.jpg
-permalink: /Contact us
+permalink: /Contact us/
 ---
 # If you are interested in join MAP or have any other queries, welcome to contact with us.  
 
