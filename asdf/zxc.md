@@ -1,10 +1,13 @@
 ---
-title: our new title
+title: Contact us
 layout: page
 background: /assets/images/moss.jpg
-permalink: /test
+permalink: /contact us
 ---
-# Mapping  
+# If you are interested in join MAP or have any other queries, welcome to contact with us.  
 
-* Asia 
-* Plants
+* Biodiversity Committee, Chinese Academy of Sciences.
+* Maofang Luo, Dr.
+* Tel: +86-10-62836629
+* Fax: +86-10-82591781
+* Email: maofang@ibcas.ac.cn
