@@ -1,34 +1,37 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Home
+  href: https://hp-base-theme.gbif-staging.org/
+- text: About
+  menu: # Dropdown menu (one level deep only)
+  - text: Introduction of MAP
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Working group
+    href: /about
+  - text: How to use & cite
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Contact us
+    href: /about
 - text: Data
-  href: /data
-- text: Data Service
   menu: # Dropdown menu (one level deep only)
-  - text: Search by name
+  - text: Table
+    href: /data
+  - text: Map
     href: https://hp-base-theme.gbif-staging.org/
-  - text: Search by taxa
+  - text: Gallery
     href: https://hp-base-theme.gbif-staging.org/
-  - text: Search by species
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Search by institute
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Search by specimen record
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Search by featured resources
-    href: https://hp-base-theme.gbif-staging.org/
-- text: Contact/联系我们
-  href: /about
-- text: Links
-  menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+  - text: Datasets
+    href: https://hp-base-theme.gbif-staging.org/ 
+- text: Literatures
+  href: /news/
 - text: News
   href: /news/
+- text: Documents
+  menu: # Dropdown menu (one level deep only)
+  - text: PPTs
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Videos
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Files" # Title for block of menu items
+  
