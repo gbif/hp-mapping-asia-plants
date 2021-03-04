@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Data/数据
+- text: Data
   href: /data
 - text: Data Service
   menu: # Dropdown menu (one level deep only)
@@ -17,7 +17,7 @@
   - text: Search by featured resources
     href: https://hp-base-theme.gbif-staging.org/
 - text: Data Development
-    menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
   - text: Data visualization
     href: https://hp-base-theme.gbif-staging.org/
   - text: Red List Evaluation
@@ -27,7 +27,7 @@
   - text: Reserve resources
     href: https://hp-base-theme.gbif-staging.org/
 - text: Tools
-    menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
   - text: Upload and download
     href: https://hp-base-theme.gbif-staging.org/
   - text: Check
@@ -35,7 +35,7 @@
   - text: Analyze
     href: https://hp-base-theme.gbif-staging.org/
 - text: Training
-    menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
   - text: Upload and download
     href: https://hp-base-theme.gbif-staging.org/
   - text: Check
@@ -45,32 +45,25 @@
   - text: Classify
     href: https://hp-base-theme.gbif-staging.org/
 - text: Community
-    menu: # Dropdown menu (one level deep only)
-  - text: Upload and download
+  menu: # Dropdown menu (one level deep only)
+  - text: Academic forum
     href: https://hp-base-theme.gbif-staging.org/
-  - text: Check
+  - text: Technology communication
     href: https://hp-base-theme.gbif-staging.org/
-  - text: Analyze
+  - text: Training and conference
     href: https://hp-base-theme.gbif-staging.org/
-  - text: Classify
+  - text: Workshop and news
+    href: /about
+- text: Resource development
+  menu: # Dropdown menu (one level deep only)
+  - text: Resources developed by users:
     href: https://hp-base-theme.gbif-staging.org/
-    
+  - text: Plant distribution map
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Plant ecological map
+    href: https://hp-base-theme.gbif-staging.org/  
 - text: Contact/联系我们
   href: /about
-- text: Tools/网站工具
-  href: /data
-- text: 数据目录
-  menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
