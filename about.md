@@ -13,12 +13,19 @@ height: 70vh
 **组长**：罗茂芳 (Maofang Luo)
 
 **成员**：李文军(Wenjun Li), Responsible for Central Asia
+
           刘博(Bo Liu), Responsible for Southeast Asia
+          
           林秦文(Qinwen Lin)，Responsible for South Asia
+          
           王洪峰(Hongfeng Wang)，Responsible for Northeast Asia
+          
           徐学红(Xuehong Xu)，Responsible for Southwest Asia
+          
           薛建华(Jianhua Xue)，Responsible for North Asia
+          
           许哲平(Zheping Xu)，Platform construction, technology
+          
 
 [MAP Seminar: Central Asia (North Asia) and West Asia, held in Urumqi](http://www.cncdiversitas.org/zh-hans/node/2558).
 
