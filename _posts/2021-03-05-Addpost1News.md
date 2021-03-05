@@ -1,7 +1,7 @@
 ---
 title:  The Second International Symposium of Mapping Asia Plants Held Online
 date:   2021-01-20 16:20:00 +0100
-categories: ["Read more"]
+categories: ["Introduction", "Discussion"]
 lang-ref: Addpost1News
 background: /assets/images/dandelion.jpg
 ---
