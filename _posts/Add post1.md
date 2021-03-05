@@ -1,7 +1,6 @@
 ---
+layout:  post
 title:  Dandelion
-layout: post
-permalink: 
 date:   2021-03-05 09:20:00 +0100
 categories: ["Introduction", "Discussion"]
 lang-ref: Add post1
