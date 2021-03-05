@@ -37,3 +37,5 @@ height: 70vh
   **Xuejuan Chen**, National Science Library, Chinese Academy of Sciences, Responsible for platform construction and technology support
 
 
+![Our Working Group](/assets/images/Working group.png)
+
