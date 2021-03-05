@@ -2,7 +2,7 @@
 title:  Dandelion
 date:   2019-03-05 16:20:00 +0100
 categories: ["Introduction", "Discussion"]
-lang-ref: Add post1
+lang-ref: Addpost1News
 background: /assets/images/dandelion.jpg
 ---
 With fan shape leaves, light green color in Spring and Summer, while golden yellow color in Autumn. You’ll find this post in your `_posts` directory.
