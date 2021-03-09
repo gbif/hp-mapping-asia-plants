@@ -102,9 +102,5 @@ defaults:
       path: "da/"
     values:
       lang: da
-  -
-    scope:
-      path: "cn/"
-    values:
-      lang: cn
+
  
