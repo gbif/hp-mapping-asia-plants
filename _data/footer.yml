@@ -16,6 +16,8 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown, Social icons links defined in `_config.yml`
+      * xuzp@mail.las.ac.cn; chenxuejuan@mail.las.ac.cn
+      * National Science Library, Chinese Academy of Sciences
       * 33 Beisihuan Xilu, Zhongguancun, Beijing P.R.China, 100190
     connectIcons: true
 
