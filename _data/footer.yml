@@ -15,8 +15,7 @@ columns:
       # This project is open source. See `_data/footer.yml` to customize the footer.
 
   - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+    description: | # Can be Markdown, Social icons links defined in `_config.yml`
       * 33 Beisihuan Xilu, Zhongguancun, Beijing P.R.China, 100190
     connectIcons: true
 
