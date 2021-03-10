@@ -9,15 +9,16 @@
   - text: Contact us
     href: /Contact us/
 - text: Data
-  menu: # Dropdown menu (one level deep only)
-  - text: Table
-    href: /data
-  - text: Map
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Gallery
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Datasets
-    href: /data
+  href: /data
+  # menu: # Dropdown menu (one level deep only)
+  # - text: Table
+    # href: /data
+  # - text: Map
+    # href: https://hp-base-theme.gbif-staging.org/
+  # - text: Gallery
+    # href: https://hp-base-theme.gbif-staging.org/
+  # - text: Datasets
+    # href: /data
 - text: Literatures
   href: /news/
 - text: News
