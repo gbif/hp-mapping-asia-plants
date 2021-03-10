@@ -10,7 +10,7 @@ var siteConfig = {
    		{
         "type":"in",
         "key": "countryCode",
-        "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
+        "values": ["AE", "AF", "AM", "AZ", "BD", "BH", "BN", "BT", "CN", "CX", "CY", "GE", "HK", "ID", "IL", "IN", "IO", "IQ", "IR", "JO", "JP", "KG", "KH", "KP", "KR", "KW", "KZ", "LA", "LB", "LK", "MM", "MN", "MO", "MV", "MY", "NP", "OM", "PH", "PK", "PS", "QA", "RU", "SA", "SG", "SY", "TH", "TJ", "TL", "TM", "TR", "TW", "UZ", "VN", "YE"]
       },
       {
         "type": "equals",
