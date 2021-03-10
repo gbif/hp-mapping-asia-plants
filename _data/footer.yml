@@ -14,7 +14,7 @@ columns:
     # description: | # Can be Markdown
       # This project is open source. See `_data/footer.yml` to customize the footer.
 
-  - name: Contact
+  - name: Contact us for technology support
     description: | # Can be Markdown, Social icons links defined in `_config.yml`
       * xuzp@mail.las.ac.cn; chenxuejuan@mail.las.ac.cn
       * National Science Library, Chinese Academy of Sciences
