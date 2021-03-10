@@ -9,7 +9,7 @@ cta:
     href: /data
     isPrimary: true
   - text: MAP Data 
-    href: https://www.cnki.net/
+    href: http://english.las.cas.cn/
   - text: About
     href: /about
 permalink: /
