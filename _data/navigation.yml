@@ -9,16 +9,21 @@
   - text: Contact us
     href: /Contact us/
 - text: Data
-  href: /data
-  # menu: # Dropdown menu (one level deep only)
-  # - text: Table
-    # href: /data
-  # - text: Map
-    # href: https://hp-base-theme.gbif-staging.org/
-  # - text: Gallery
-    # href: https://hp-base-theme.gbif-staging.org/
-  # - text: Datasets
-    # href: /data
+  menu: # Dropdown menu (one level deep only)
+  - text: Asia
+    href: /data
+  - text: Central Asia
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Southeast Asia
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: South Asia
+    href: /data
+  - text: Northeast Asia
+    href: /data
+  - text: Southwest Asia
+    href: /data
+  - text: North Asia
+    href: /data
 - text: Literatures
   href: /news/
 - text: News
