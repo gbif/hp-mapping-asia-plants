@@ -4,7 +4,11 @@
   href: /da/关于
 - text: 数据
   href: /da/数据
-- text: Links
+- text: 文献
+  href: /da/文献/
+- text: 新闻
+  href: /da/新闻/
+- text: 相关资源
   menu: # Dropdown menu (one level deep only)
   - text: Base tema demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -16,5 +20,4 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: Lær YAML
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: 新闻
-  href: /da/新闻/
+
