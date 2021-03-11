@@ -10,21 +10,21 @@
     href: /Contact us/
 - text: Data
   menu: # Dropdown menu (one level deep only)
-  - text: Asia
+  - text: GBIF: Asia
     href: /data
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Accessional Data" # Title for block of menu items
-  - text: Central Asia
+  # - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  # - text: "Accessional Data" # Title for block of menu items
+  - text: MAP: Central Asia
     href: /Central Asia/
-  - text: Southeast Asia
+  - text: MAP: Southeast Asia
     href: /Southeast Asia/
-  - text: South Asia
+  - text: MAP: South Asia
     href: /South Asia/
-  - text: Northeast Asia
+  - text: MAP: Northeast Asia
     href: /Northeast Asia/
-  - text: Southwest Asia
+  - text: MAP: Southwest Asia
     href: /Southwest Asia/
-  - text: North Asia
+  - text: MAP: North Asia
     href: /North Asia/
 - text: Literatures
   href: /news/
