@@ -10,19 +10,19 @@
     href: /Contact us/
 - text: Data
   menu: # Dropdown menu (one level deep only)
-  - text: GBIF-Asia
+  - text: GBIF：Asia
     href: /data
   - text: MAP：Central Asia
     href: /Central Asia/
-  - text: MAP-Southeast Asia
+  - text: MAP：Southeast Asia
     href: /Southeast Asia/
-  - text: MAP-South Asia
+  - text: MAP：South Asia
     href: /South Asia/
-  - text: MAP-Northeast Asia
+  - text: MAP：Northeast Asia
     href: /Northeast Asia/
-  - text: MAP-Southwest Asia
+  - text: MAP：Southwest Asia
     href: /Southwest Asia/
-  - text: MAP-North Asia
+  - text: MAP：North Asia
     href: /North Asia/
 - text: Literatures
   href: /news/
