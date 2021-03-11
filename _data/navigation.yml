@@ -12,7 +12,7 @@
   menu: # Dropdown menu (one level deep only)
   - text: GBIF-Asia
     href: /data
-  - text: MAP-Central Asia
+  - text: MAP：Central Asia
     href: /Central Asia/
   - text: MAP-Southeast Asia
     href: /Southeast Asia/
