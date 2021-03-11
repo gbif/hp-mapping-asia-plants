@@ -7,11 +7,9 @@ background: /assets/images/backg.jpg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
-  - text: GBIF数据
+  - text: 开始
     href: /da/数据
     isPrimary: true
-  - text: MAP数据
-    href: http://english.las.cas.cn/  
   - text: 关于
     href: /da/关于
 permalink: /da
