@@ -1,6 +1,6 @@
 ---
 title: South Asia
-layout: page
+layout: home
 background: /assets/images/leaves.jpg
 permalink: /South Asia/
 ---
