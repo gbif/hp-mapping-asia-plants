@@ -12,8 +12,6 @@
   menu: # Dropdown menu (one level deep only)
   - text: GBIF: Asia
     href: /data
-  # - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  # - text: "Accessional Data" # Title for block of menu items
   - text: MAP: Central Asia
     href: /Central Asia/
   - text: MAP: Southeast Asia
