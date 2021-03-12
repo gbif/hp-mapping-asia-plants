@@ -60,6 +60,9 @@ dum: fateor profugus renovatus exhalantem.
 | col 2 is      | centered      |   $12 |
 | tables        | are useful    |    $1 |
 
+|Christofides, Yiannis| | |Illustrated Flora of Cyprus| | |2017 | | |Multiprint Ltd. Bulgaria| | |Southwest Asia|  |
+
+
 --------
 
 ### In frustra albus
