@@ -286,9 +286,5 @@ permalink: /Literature/
 |Makino, T|Observations on the Flora of Japan|1907|Shokubutsugaku Zasshi|Northeast Asia
 |Kunio, Iwatsuki; David E., Bouffoud; Hideaki, Ohba|Flora of Japan|2006|Kodansha|Northeast Asia
 |Kitagawa, Masao|Neo-Lineamenta florae Manshuricae or Enumeration of the spontaneous vascular plants hitherto known from Manchuria (North-eastern China) together with their synonymy and distribution|1979|Vaduz: J. Cramer 715p.(Flora et Vegetatio Mundi Herausgegeben von Reinhold Tuxen, Band 4)-. Icones. Geog|Northeast Asia
-![image](https://user-images.githubusercontent.com/77830569/110902939-9c1a1500-8341-11eb-8075-24a4d236d4fc.png)
-
-
-
 
 --------
