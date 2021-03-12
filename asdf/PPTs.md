@@ -15,3 +15,4 @@ permalink: /PPTs/
 |[Ori Fragman-Sapir - The Flora of Israel online project - a treasure of data and challenges](/assets/Ori Fragman-Sapir - The Flora of Israel online project - a treasure of data and challenges.pdf)|The Second International Symposium of MAP|West Asia|
 |[Richard Corlett- How can we save all the plants in Southeast Asia](/assets/Richard Corlett- How can we save all the plants in Southeast Asia.pdf)|The Second International Symposium of MAP|Southeast Asia|
 
+------------------
