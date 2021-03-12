@@ -1,5 +1,5 @@
 ---
 title: Literatures
-layout: page
+layout: post
 permalink: /Literature/
 ---
