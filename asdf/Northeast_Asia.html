@@ -1,0 +1,41 @@
+<html>
+
+<body> 
+<p> 
+<b>Title:</b> <span id="title"></span><br /> 
+</p>
+
+<script type="text/javascript"> 
+if (window.XMLHttpRequest) 
+  {// code for IE7+, Firefox, Chrome, Opera, Safari 
+  xmlhttp=new XMLHttpRequest(); 
+  } 
+else 
+  {// code for IE6, IE5 
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP"); 
+  } 
+xmlhttp.open("GET","Northeast_Asia.xml",fause); 
+xmlhttp.send(); 
+xmlDoc=xmlhttp.responseXML;
+
+document.getElementById("title").innerHTML= 
+"Northeast Asia";
+
+var x=xmlDoc.documentElement.childNodes;
+
+for (var i=0;i<x.length;i++) 
+{ 
+if (x[i].nodeType==1) 
+  { 
+  //Process only element (nodeType 1) nodes 
+  //document.write(x[i].nodeName + ": "); 
+  document.write("<b>"+ x[i].childNodes[0].childNodes[0].nodeValue + "</b>      <br />"); 
+  //the same function when use   document.write(x[i].getElementsByTagName("word")[0].childNodes[0].nodeValue); 
+  document.write("&nbsp;&nbsp;&nbsp;&nbsp;"+ x[i].getElementsByTagName("trans")[0].childNodes[0].nodeValue); 
+  document.write("<br />"); 
+  } 
+} 
+</script>
+
+</body> 
+</html>
