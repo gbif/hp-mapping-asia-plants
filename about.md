@@ -60,10 +60,6 @@ dum: fateor profugus renovatus exhalantem.
 | col 2 is      | centered      |   $12 |
 | tables        | are useful    |    $1 |
 
-Christofides, Yiannis|||Illustrated Flora of Cyprus|||2017|||Multiprint Ltd. Bulgaria|||Southwest Asia||
-Christofides, Yiannis|  |  |Illustrated Flora of Cyprus|  |  |2017|  |  |Multiprint Ltd. Bulgaria|  |  |Southwest Asia|  |
-Collenette, S|  |  |Wild Flowers of Saudi Arabia|  |  |1999|  |  |National Commission for Wildlife Conservation and Development (NCWCD)|  |  |Southwest Asia|  |
-Bouloumoy, L|  |  |Flore du Liban et de la Syrie. Vigot Freres. (in French)|  |  |  |  |  |Le Caire Imprimerie de l'Institut Français d'Archéologie Orientale|  |  |Southwest Asia|  |
 
 
 --------
