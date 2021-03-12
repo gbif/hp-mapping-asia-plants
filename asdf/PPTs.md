@@ -1,3 +1,9 @@
+---
+title: PPTs
+layout: post
+permalink: /PPTs/
+---
+
 |PPT Resources|Conference|Region|
 |---|---|---|
 |![Alexey Seregin-Electronic resources and basic patterns of Russian flora](/assets/Alexey Seregin-Electronic resources and basic patterns of Russian flora.pdf)|The Second International Symposium of MAP|North Asia|
