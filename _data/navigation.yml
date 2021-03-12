@@ -31,7 +31,7 @@
 - text: Documents
   menu: # Dropdown menu (one level deep only)
   - text: PPTs
-    href: https://hp-base-theme.gbif-staging.org/
+    href: /PPTs/
   - text: Videos
     href: https://hp-base-theme.gbif-staging.org/
   - text: Files
