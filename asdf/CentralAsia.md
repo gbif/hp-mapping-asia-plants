@@ -9,7 +9,7 @@ permalink: /Central Asia/
 
 
 
-<iframe src="https://www.baidu.com/" width="2000px" height="800px" frameborder="no"  border="0"> </iframe>
+<iframe src="/assets/test.html/" width="2000px" height="800px" frameborder="no"  border="0"> </iframe>
 
 
 
