@@ -9,7 +9,7 @@ permalink: /Central Asia/
 
 
 
-<iframe src="http://htmlpreview.github.io/assets/test.html/" width="2000px" height="800px" frameborder="no"  border="0"> </iframe>
+<iframe src="http://htmlpreview.github.io/?assets/test.html/" width="2000px" height="800px" frameborder="no"  border="0"> </iframe>
 
 
 
