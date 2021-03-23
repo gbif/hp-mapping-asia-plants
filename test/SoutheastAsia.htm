@@ -1,0 +1,206 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<title>data explore</title>
+	<link rel="stylesheet" type="text/css" href="../media/css/jquery.dataTables.min.css">
+	<link rel="stylesheet" type="text/css" href="../media/Buttons-1.6.1/css/buttons.dataTables.min.css">
+	<style type="text/css" class="init">
+	
+	</style> 
+	<script type="text/javascript" language="javascript" src="../media/jQuery-3.3.1/jquery-3.3.1.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/mainjscss/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/Buttons-1.6.1/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/Buttons-1.6.1/js/buttons.flash.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/JSZip-2.5.0/jszip.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/pdfmake-0.1.36/pdfmake.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/pdfmake-0.1.36/vfs_fonts.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/Buttons-1.6.1/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../media/Buttons-1.6.1/js/buttons.print.min.js"></script>
+	<script type="text/javascript" class="init">
+	
+
+
+$(document).ready(function() {
+	$('#example').DataTable( {
+		dom: 'Bfrtip',
+		buttons: [
+			//'copy', 'csv', 'excel', 'pdf', 'print'
+			{
+       extend: 'copy'
+   },
+   {
+       extend: 'csv'
+   },
+   {
+       extend: 'excel',
+       title: '导出Excel文件',
+	   sButtonText: "Add"
+   },
+   {
+       extend: 'pdf',
+       title: 'PDFFile'
+   },
+
+   {
+       extend: 'print',
+       customize: function(win) {
+           $(win.document.body).addClass('white-bg');
+           $(win.document.body).css('font-size', '10px');
+           $(win.document.body).find('table').addClass('compact').css('font-size', 'inherit');
+       }
+}
+		]
+	} );
+} );
+
+
+
+	</script>
+</head>
+<body class="wide comments example">
+ 
+	<div class="fw-container">
+ 
+ 
+		<div class="fw-body">
+			<div class="content">
+				<h1 class="page_title">Basic initialisation</h1>
+				 
+				<table id="example" class="display" style="width:100%">
+					<thead>
+						<tr>
+							<th>Distribution</th>
+							<th>Name</th>
+							<th>Chinese Name</th>
+							<th>Source Database</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Pyrocystis acuta Kofoid,1907</td>
+							<td>尖梨甲藻</td>
+							<td>CMBCS</td>
+						</tr>
+					  	<tr>
+							<td>Eastern China Sea</td>
+							<td>Smilium acutum (Hoek,1883)</td>
+							<td>尖刀茗荷</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>VanHeurckella admirabilis Pantocsek,1892</td>
+							<td>奇异范氏藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Gymnodinium aeruginosum Stein,1883</td>
+							<td>深绿裸甲藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Coscinodiscus africanus Janisch,1878</td>
+							<td>非洲圆筛藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Teloscalpellum album Liu et Ren,1985</td>
+							<td>白远铠茗荷</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Achnanthes amoena Hustedt,1952</td>
+							<td>美丽曲壳藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Nitzschia amphibia Grunow,1862</td>
+							<td>两栖菱形藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Glyptelasma annandalei (Pilsbry,1907)</td>
+							<td>丽雕茗荷</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Pleurosigma angulatum subsp. falcatum Liu et Chin,1979</td>
+							<td>宽角斜纹藻镰刀变种</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Asteromphalus arachna (Breb. Ralfs,1861)</td>
+							<td>蛛网星脐藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Dendrophyllia arbuscula van der Horst,1922</td>
+							<td>轴木珊瑚</td>
+							<td>CMBCS</td>
+						</tr>
+					 	<tr>
+							<td>Eastern China Sea</td>
+							<td>Achnanthes archibaldiana Lange-Bertalot et Krammer,1989</td>
+							<td>拱形曲壳藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Podosira argus Grunow,1878</td>
+							<td>有光柄链藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Stictodiscus argus A.Schmidt,1882</td>
+							<td>有光斑盘藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Chaetoceros atlanticus subsp. atlanticus Cleve,1873</td>
+							<td>大西洋角毛藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Koleolepas avis (Hiro,1931)</td>
+							<td>鸡冠鞘茗荷</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Ceratium axiale Kofoid,1907</td>
+							<td>细轴角藻</td>
+							<td>CMBCS</td>
+						</tr>
+						<tr>
+							<td>Eastern China Sea</td>
+							<td>Prorocentrum balticum (Lohmann Loeblich III,1970)</td>
+							<td>波罗的海原甲藻</td>
+							<td>CMBCS</td>
+						</tr>
+					</tbody>
+					<tfoot>
+						<tr>
+							<th>Distribution</th>
+							<th>Name</th>
+							<th>Chinese Name</th>
+							<th>Source Database</th>
+						</tr>
+			 
+</body>
+</html>
