@@ -9,4 +9,4 @@ permalink: /Southeast Asia/
 
 
 
-<iframe src="/test/SoutheastAsia.htm/" width="3000px" height="1000px" frameborder="no"  border="0"> </iframe>
+<iframe src="/test/SoutheastAsia.htm/" width="3000px" height="1000px" frameborder="1"  border="3"> </iframe>
