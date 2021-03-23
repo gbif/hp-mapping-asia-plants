@@ -1,6 +1,6 @@
 ---
 title: Southeast Asia
-layout: page
+layout: post
 background: /assets/images/lotus seed.jpg
 permalink: /Southeast Asia/
 ---
