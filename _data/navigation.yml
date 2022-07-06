@@ -10,7 +10,7 @@
     href: /Contact us/
 - text: Data
   menu: # Dropdown menu (one level deep only)
-  - text: GBIF：Asia
+  - text: AsiaBIF
     href: /data
   - text: MAP：Central Asia
     href: /Central Asia/
