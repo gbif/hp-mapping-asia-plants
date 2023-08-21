@@ -1,0 +1,22 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: 关于
+  href: /da/关于
+- text: 数据
+  href: /da/数据
+- text: 文献
+  href: /da/文献/
+- text: 新闻
+  href: /da/新闻/
+- text: 相关资源
+  menu: # Dropdown menu (one level deep only)
+  - text: Base tema demo
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Docs" # Title for block of menu items
+  - text: Jekyll dokumentation
+    href: https://jekyllrb.com/docs/pages/
+  - text: Lær Markdown
+    href: https://guides.github.com/features/mastering-markdown/
+  - text: Lær YAML
+    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
