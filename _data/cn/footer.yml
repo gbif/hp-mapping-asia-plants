@@ -1,0 +1,33 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  # - name: Partnere
+    # links:
+    # - text: Navn på projektpartner
+      # href: http://example.com
+    # - text: Name of project partner 2
+      # href: http://example.com
+
+  # - name: Code
+    # description: | # Can be Markdown
+      # This project is open source. See `_data/footer.yml` to customize the footer.
+  
+  - name: 联系我们
+    description: | # Can be Markdown   Social icons links defined in `_config.yml`
+      * 中国科学院植物研究所，罗茂芳（maofang@ibcas.ac.cn）
+      * 中国科学院文献情报中心，许哲平（xuzp@mail.las.ac.cn）
+      * 中国科学院文献情报中心，陈学娟（chenxuejuan@mail.las.ac.cn）
+    connectIcons: true
+
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
