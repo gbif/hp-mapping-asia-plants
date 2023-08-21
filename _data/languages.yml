@@ -1,7 +1,8 @@
 en:
   label: English
   icon:  # optional
-da:
+cn:
   label: Chinese
-
+da:
+  label: Danish
  
