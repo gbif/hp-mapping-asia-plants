@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-mapping-asia-plants
 
-This Jekyll website, **[hp-mapping-asia-plants](https://hp-mapping-asia-plants.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-mapping-asia-plants](https://mapping-asia-plants.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
